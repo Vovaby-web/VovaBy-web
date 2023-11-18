@@ -25,8 +25,8 @@
 
 ### 🛠 Инструменты:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="IntelIJIdea" alt=" IntelIJIdea " width="40" height="40"/>&nbsp;
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg " title="mySQL" alt=" mySQL " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelIJIdea" alt=" IntelIJIdea " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="mySQL" alt=" mySQL " width="40" height="40"/>&nbsp;
 </div>
 
 
