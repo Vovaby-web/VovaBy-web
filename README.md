@@ -29,4 +29,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt=" mySQL " width="40" height="40"/>&nbsp;
 </div>
 
+### ⚙️ GitHub статистика:
 
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Vovaby-web&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+  </tr>
+</table>
