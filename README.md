@@ -28,6 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelIJIdea" alt="IntelIJIdea" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+ <img src="maven-svgrepo-com.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+ 
 </div>
 
 ### ⚙️ GitHub статистика:
